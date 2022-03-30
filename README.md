@@ -9,4 +9,4 @@ a partir daí ao clicar no botão calcular irá se inciar uma função do JS ati
 essa função pega os valores do input através do document.querySelector e element.value, e apartir desses
 valores a função calcula o IMC pela formula: peso / (altura^2). Sabendo o valor do IMC a função irá definir
 se o resultado te define como magreza, normal, sobrepeso, obesidade ou obesidade grave. As duas informações serão exibidas 
-em um <p> localizado abaixo do formulário através do element.innerHTML;
+em um p localizado abaixo do formulário através do element.innerHTML;
